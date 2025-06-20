@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\bin\Debug\net9.0\SalesApp.Models.deps.json
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\bin\Debug\net9.0\SalesApp.Models.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\bin\Debug\net9.0\SalesApp.Models.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\SalesApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\SalesApp.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\SalesApp.Models.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\SalesApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\SalesApp.Models.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\refint\SalesApp.Models.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\SalesApp.Models.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.Models\obj\Debug\net9.0\ref\SalesApp.Models.dll

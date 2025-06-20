@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\bin\Debug\net9.0\SalesApp.DAL.deps.json
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\bin\Debug\net9.0\SalesApp.DAL.runtimeconfig.json
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\bin\Debug\net9.0\SalesApp.DAL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\bin\Debug\net9.0\SalesApp.DAL.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\bin\Debug\net9.0\SalesApp.Models.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\bin\Debug\net9.0\SalesApp.Models.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.673D2528.Up2Date
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\refint\SalesApp.DAL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\SalesApp.DAL.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.DAL\obj\Debug\net9.0\ref\SalesApp.DAL.dll

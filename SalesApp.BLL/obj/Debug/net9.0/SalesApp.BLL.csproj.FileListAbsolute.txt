@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.BLL.deps.json
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.BLL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.BLL.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.DAL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.Models.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.DAL.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\bin\Debug\net9.0\SalesApp.Models.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.92D92ED4.Up2Date
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\refint\SalesApp.BLL.dll
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\SalesApp.BLL.pdb
+C:\Users\Admin\Desktop\ASM_PRM\SalesApp.BLL\obj\Debug\net9.0\ref\SalesApp.BLL.dll
